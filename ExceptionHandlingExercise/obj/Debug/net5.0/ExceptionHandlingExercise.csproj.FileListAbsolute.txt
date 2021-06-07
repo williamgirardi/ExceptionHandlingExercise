@@ -1,0 +1,16 @@
+C:\Users\William Girardi\source\repos\ExceptionHandlingExercise\ExceptionHandlingExercise\bin\Debug\net5.0\ExceptionHandlingExercise.exe
+C:\Users\William Girardi\source\repos\ExceptionHandlingExercise\ExceptionHandlingExercise\bin\Debug\net5.0\ExceptionHandlingExercise.deps.json
+C:\Users\William Girardi\source\repos\ExceptionHandlingExercise\ExceptionHandlingExercise\bin\Debug\net5.0\ExceptionHandlingExercise.runtimeconfig.json
+C:\Users\William Girardi\source\repos\ExceptionHandlingExercise\ExceptionHandlingExercise\bin\Debug\net5.0\ExceptionHandlingExercise.runtimeconfig.dev.json
+C:\Users\William Girardi\source\repos\ExceptionHandlingExercise\ExceptionHandlingExercise\bin\Debug\net5.0\ExceptionHandlingExercise.dll
+C:\Users\William Girardi\source\repos\ExceptionHandlingExercise\ExceptionHandlingExercise\bin\Debug\net5.0\ref\ExceptionHandlingExercise.dll
+C:\Users\William Girardi\source\repos\ExceptionHandlingExercise\ExceptionHandlingExercise\bin\Debug\net5.0\ExceptionHandlingExercise.pdb
+C:\Users\William Girardi\source\repos\ExceptionHandlingExercise\ExceptionHandlingExercise\obj\Debug\net5.0\ExceptionHandlingExercise.csprojAssemblyReference.cache
+C:\Users\William Girardi\source\repos\ExceptionHandlingExercise\ExceptionHandlingExercise\obj\Debug\net5.0\ExceptionHandlingExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\William Girardi\source\repos\ExceptionHandlingExercise\ExceptionHandlingExercise\obj\Debug\net5.0\ExceptionHandlingExercise.AssemblyInfoInputs.cache
+C:\Users\William Girardi\source\repos\ExceptionHandlingExercise\ExceptionHandlingExercise\obj\Debug\net5.0\ExceptionHandlingExercise.AssemblyInfo.cs
+C:\Users\William Girardi\source\repos\ExceptionHandlingExercise\ExceptionHandlingExercise\obj\Debug\net5.0\ExceptionHandlingExercise.csproj.CoreCompileInputs.cache
+C:\Users\William Girardi\source\repos\ExceptionHandlingExercise\ExceptionHandlingExercise\obj\Debug\net5.0\ExceptionHandlingExercise.dll
+C:\Users\William Girardi\source\repos\ExceptionHandlingExercise\ExceptionHandlingExercise\obj\Debug\net5.0\ref\ExceptionHandlingExercise.dll
+C:\Users\William Girardi\source\repos\ExceptionHandlingExercise\ExceptionHandlingExercise\obj\Debug\net5.0\ExceptionHandlingExercise.pdb
+C:\Users\William Girardi\source\repos\ExceptionHandlingExercise\ExceptionHandlingExercise\obj\Debug\net5.0\ExceptionHandlingExercise.genruntimeconfig.cache
